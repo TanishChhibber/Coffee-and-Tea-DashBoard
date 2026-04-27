@@ -1,6 +1,6 @@
 <h2>🖼 Dashboard Preview</h2>
 <p align="center">
-  <img src="your-dashboard-image.png" width="800">
+  <img src="Coffee And Tea.png" width="800">
 </p>
 
 <h1 align="center">📊 Tea vs Coffee Global Data Analysis Dashboard</h1>
